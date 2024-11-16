@@ -8,6 +8,7 @@
   background-color: #fff;
   background-image: url(../images/background_header.svg);
   background-size: cover;
+  z-index: 1;
 }
 
 .header__title {
@@ -43,6 +44,7 @@
   height: 568px;
   top: 124px;
   right: 5px;
+  z-index: -1;
 }
 
 .header__footer {

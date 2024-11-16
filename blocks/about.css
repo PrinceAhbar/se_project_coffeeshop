@@ -12,10 +12,10 @@
 .about__title {
   max-width: 251px;
   z-index: 2;
-  font-family: "Inter", "Arial", sans-serif;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
+  margin: 0;
 }
 
 .about__content {
@@ -30,6 +30,10 @@
   font-size: 20px;
   line-height: 30px;
   margin: 0 0 20px;
+}
+
+.about__paragraph:last-of-type {
+  margin: 0;
 }
 
 .about__circle {
