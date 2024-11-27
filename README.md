@@ -1,3 +1,5 @@
+https://princeahbar.github.io/se_project_coffeeshop/
+
 # TripleBrews Coffee Shop
 
 TripleBrews is a cozy coffee shop in the Triple Peaks Library, serving specialty coffee, tea, and baked goods. We focus on sustainability and offer a comfortable space with free WiFi for work or relaxation.
